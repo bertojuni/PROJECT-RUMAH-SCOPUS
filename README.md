@@ -1,2 +1,12 @@
 # PROJECT-RUMAH-SCOPUS
-project webinar dan pelatihan jurnal dengan CI 3 
+website pemesanan webinar dan pelatihan jurnal dengan codeigniter 3
+
+# AKUN
+# login member :
+* email : bertojunikrisnanto@gmail.com
+* pasword : junijuni008
+
+# login admin :
+* url : localhost/scopus/administrator
+* username : bertojuni
+* password : junijuni008
